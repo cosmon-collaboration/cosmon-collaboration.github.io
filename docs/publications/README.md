@@ -3,7 +3,7 @@
 <details>
     <summary>Elastic nucleon-pion scattering at $m_\pi=200$ MeV from lattice QCD<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0550321323000342?via%3Dihub" target="_blank">Nucl.Phys.B 987 (2023)</a>
-    [<a href="https://arxiv.org/abs/2208.03867" target="_blank">arXiv:2009.11825</a>]</summary>
+    [<a href="https://arxiv.org/abs/2208.03867" target="_blank">arXiv:2208.03867</a>]</summary>
     <br>
     Elastic nucleon-pion scattering amplitudes are computed using lattice QCD on a single ensemble of gauge field configurations with N_f=2+1 dynamical quark flavors and m_pi=200 MeV. The s-wave scattering lengths with both total isospins I=1/2 and I=3/2 are inferred from the finite-volume spectrum below the inelastic threshold together with the I=3/2 p-wave containing the Δ(1232) resonance. The amplitudes are well-described by the effective range expansion with parameters constrained by fits to the finite-volume energy levels enabling a determination of the I=3/2 scattering length with statistical errors below 5%, while the I=1/2 is somewhat less precise. Systematic errors due to excited states and the influence of higher partial waves are controlled, providing a pathway for future computations down to the physical light quark masses with multiple lattice spacings and physical volumes.
 
