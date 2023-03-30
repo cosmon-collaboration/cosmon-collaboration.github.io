@@ -1,3 +1,1 @@
-# Headline
-
-> An awesome project.
+# Connecting the Standard Model to Nuclei (CoSMoN)
