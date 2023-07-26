@@ -1,6 +1,25 @@
 # Publications
 
 <details>
+    <summary>Lattice QCD study of $\pi\Sigma$--$\bar{K}N$ scattering and the $\Lambda(1405)$ resonance<br>
+    [<a href="https://arxiv.org/abs/2307.13471" target="_blank">arXiv:2307.13471</a>]</summary>
+    <br>
+    A lattice QCD computation of the coupled channel πΣ–KN scattering amplitudes in the Λ(1405) region is detailed. Results are obtained using a single ensemble of gauge field configurations with Nf=2+1 dynamical quark flavors and mπ≈200 MeV and mK≈487 MeV. Hermitian correlation matrices using both single baryon and meson-baryon interpolating operators for a variety of different total momenta and irreducible representations are used. Several parametrizations of the two-channel scattering K-matrix are utilized to obtain the scattering amplitudes from the finite-volume spectrum. The amplitudes, continued to the complex energy plane, exhibit a virtual bound state below the πΣ threshold and a resonance pole just below the KN threshold. 
+
+</details>
+
+<br>
+
+<details>
+    <summary>The two-pole nature of the $\Lambda(1405)$ from lattice QCD<br>
+    [<a href="https://arxiv.org/abs/2307.10413" target="_blank">arXiv:2307.10413</a>]</summary>
+    <br>
+    This letter presents the first lattice QCD computation of the coupled channel πΣ–KN scattering amplitudes at energies near 1405MeV. These amplitudes contain the resonance Λ(1405) with strangeness S=−1 and isospin, spin, and parity quantum numbers I(JP)=0(1/2−). However, whether there is a single resonance or two nearby resonance poles in this region is controversial theoretically and experimentally. Using single-baryon and meson-baryon operators to extract the finite-volume stationary-state energies to obtain the scattering amplitudes at slightly unphysical quark masses corresponding to mπ≈200 MeV and mK≈487 MeV, this study finds the amplitudes exhibit a virtual bound state below the πΣ threshold in addition to the established resonance pole just below the K¯N threshold. Several parametrizations of the two-channel K-matrix are employed to fit the lattice QCD results, all of which support the two-pole picture suggested by SU(3) chiral symmetry and unitarity.
+
+</details>
+
+<br>
+<details>
     <summary>Elastic nucleon-pion scattering at $m_\pi=200$ MeV from lattice QCD<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0550321323000342?via%3Dihub" target="_blank">Nucl.Phys.B 987 (2023)</a>
     [<a href="https://arxiv.org/abs/2208.03867" target="_blank">arXiv:2208.03867</a>]</summary>
