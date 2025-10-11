@@ -1,0 +1,19 @@
+# -- Markup --
+# split markup into separate file
+
+[goldmark]
+  [goldmark.renderer]
+    unsafe = true
+  [goldmark.renderHooks.image]
+    enableDefault = true
+  [goldmark.renderHooks.link]
+    enableDefault = true
+
+
+[highlight]
+  noClasses = false
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 6
+  ordered = false

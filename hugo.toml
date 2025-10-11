@@ -1,0 +1,63 @@
+baseURL = "https://cosmon-collaboration.github.io/"
+enableGitInfo = false # true: page modification date set by last git commit
+enableRobotsTXT = true
+hasCJKLanguage = true
+languageCode = "en"
+rssLimit = 10
+title = "CoSMoN"
+theme = "hugo-texademic"
+
+[pagination]
+pagerSize = 5
+
+[taxonomies]
+tags = "tags"
+categories = "categories"
+presenter = "presenter"
+
+[params]
+    title="CoSMoN Collaboration"
+    description = "Webpage for CoSMoN Collaboration"
+    footnote = """
+    Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+    Theme <a class=link href=https://github.com/walkloud/hugo-texademic target=_blank rel=noopener>TeXaDemic</a>
+    """
+    customCSS = []
+    customJS = []
+    dateFormat = "2 January 2006"
+    emphasisWithDots = true
+    toc = true
+    rootFontSize = "105%"
+    math = true
+    enableDuckDuckGoSearchBox = true
+    numberedSubtitles = true
+    default_portrait = "images/anonymous_person.png"
+
+[[menus.main]]
+    name = 'CoSMoN'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+[[menus.main]]
+    name = 'News'
+    pageRef = '/news'
+    weight = 30
+[[menus.main]]
+    name = 'Members'
+    pageRef = '/members'
+    weight = 40
+[[menus.main]]
+    name = 'Publications'
+    pageRef = '/publications'
+    weight = 50
+[[menus.main]]
+    name = 'Talks'
+    pageRef = '/talks'
+    weight = 60
+[[menus.main]]
+    name = 'Software'
+    pageRef = '/software'
+    weight = 70

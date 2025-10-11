@@ -1,0 +1,3 @@
+[submodule "themes/hugo-texademic"]
+	path = themes/hugo-texademic
+	url = https://github.com/walkloud/hugo-texademic

@@ -1,0 +1,29 @@
+description = "TeXaDemic - A LaTeX-style hugo theme with the gruvbox color scheme for personal and group academics sites"
+footnote = """
+Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+Theme <a class=link href=https://github.com/walkloud/hugo-texademic target=_blank rel=noopener>TeXaDemic</a>
+"""
+keywords = ["hugo", "latex", "theme", "academic", "texify", "texify2", "texify3", "texademic"]
+customCSS = []
+customJS = []
+dateFormat = "2 January 2006"
+emphasisWithDots = true
+since = "2025"
+toc = true
+showWordCount = true
+showReadingTime = true
+rootFontSize = "100%"
+math = true
+enableDuckDuckGoSearchBox = true
+numberedSubtitles = true
+enableInlineShortcodes = true
+
+[sharingbuttons]
+facebook = true
+x = true
+email = true
+linkedin = true
+reddit = true
+whatsapp = true
+hackernews = true
+telegram = true
