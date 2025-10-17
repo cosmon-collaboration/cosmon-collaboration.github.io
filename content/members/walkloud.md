@@ -11,7 +11,6 @@ phone: +1-510-486-5652
 social:
     - icon: "envelope"
       source: "fa"
-      link: "mailto:walkloud@lbl.gov"
     - icon: "inspire"
       source: "ai"
       link: "https://inspirehep.net/authors/1021450"
