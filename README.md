@@ -21,7 +21,13 @@ After you have a working site, you can add new content by making a new branch
 ```
 git checkout -b <branch_name>
 ```
-add content, make sure it works locally, add the new files
+To make yourself a new member page, you can type
+```
+hugo new members/<YOUR_NAME>.md
+```
+which will create a template file that you can edit, and then add and commit.
+
+Add additional content, such as news items.  Then, make sure it works locally, add the new files
 ```
 git add <files you added/modified>
 git commit -m "some useful message"
