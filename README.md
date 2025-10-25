@@ -25,7 +25,7 @@ To make yourself a new member page, you can type
 ```
 hugo new members/<YOUR_NAME>.md
 ```
-which will create a template file that you can edit, and then add and commit.
+which will create a template file that you can edit, and then add and commit.  Make sure to add your image to `assets/images` folder, and then list `images/your_image.{jpg,png}` in the `portrait` key.
 
 Add additional content, such as news items.  Then, make sure it works locally, add the new files
 ```
