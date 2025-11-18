@@ -1,7 +1,7 @@
 ---
 first_name: Amy
 last_name: Nicholson
-portrait: ANicholson.jpeg # copy an image to assets/images, otherwise, get anonymous
+portrait: assets/images/ANicholson.jpeg # copy an image to assets/images, otherwise, get anonymous
 institute: University of North Carolina at Chapel Hill
 position: senior #senior, postdoc, gradstudent, undergrad, former
 title: Associate Professor #Senior Scientist, Professor, ...
