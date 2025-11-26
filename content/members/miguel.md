@@ -4,7 +4,7 @@ last_name: Salg
 portrait: images/Salg_Miguel.jpg
 institute: University of Bern
 position: postdoc
-title: Early Postdoc
+title: Postdoc
 website: https://www.itp.unibe.ch/about_us/people/people/index_eng.html?id=282
 email: miguel.salg@unibe.ch
 social:
