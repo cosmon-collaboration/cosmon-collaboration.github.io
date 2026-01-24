@@ -33,6 +33,7 @@ presenter = "presenter"
     numberedSubtitles = true
     default_portrait = "images/anonymous_person.png"
     memberClass = false
+    theme="blue-grey"
 
 [[menus.main]]
     name = 'CoSMoN'
