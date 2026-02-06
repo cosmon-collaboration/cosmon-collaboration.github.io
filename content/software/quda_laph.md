@@ -2,6 +2,7 @@
 title: quda_laph
 external_url: https://github.com/cosmon-collaboration/quda_laph
 software_type: hpc
+repo: github
 summary: quda_laph utilizes QUDA to construct hadrons utilizing the LapH method.
 ---
 
