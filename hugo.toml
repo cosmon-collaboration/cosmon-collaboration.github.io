@@ -16,6 +16,10 @@ categories = "categories"
 presenter = "presenter"
 
 [params]
+    theme="blue-grey"
+    dateFormat = "2 January 2006"
+    front_news = 7
+
     title="CoSMoN Collaboration"
     description = "Webpage for CoSMoN Collaboration"
     footnote = """
@@ -24,7 +28,6 @@ presenter = "presenter"
     """
     customCSS = []
     customJS = []
-    dateFormat = "2 January 2006"
     emphasisWithDots = true
     toc = true
     rootFontSize = "105%"
@@ -33,7 +36,6 @@ presenter = "presenter"
     numberedSubtitles = true
     default_portrait = "images/anonymous_person.png"
     memberClass = false
-    theme="blue-grey"
 
 [[menus.main]]
     name = 'CoSMoN'
