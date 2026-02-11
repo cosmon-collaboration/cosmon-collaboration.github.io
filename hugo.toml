@@ -19,6 +19,7 @@ presenter = "presenter"
     theme="blue-grey"
     dateFormat = "2 January 2006"
     front_news = 7
+    #home_banner = "images/foggy-bay.jpg"
 
     title="CoSMoN Collaboration"
     description = "Webpage for CoSMoN Collaboration"
