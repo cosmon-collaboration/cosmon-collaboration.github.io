@@ -1,3 +1,3 @@
-CoSMoN (Connecting the Standard Model to Nuclei):
+CoSMoN (Connecting the Standard Model to Nuclear Physics):
 
 [Cosmon or Cosmonium ](https://en.wikipedia.org/wiki/Cosmon) is a hypothetical form of matter where the Universe would have been in a dense form of matter as a particle named Cosmon...
