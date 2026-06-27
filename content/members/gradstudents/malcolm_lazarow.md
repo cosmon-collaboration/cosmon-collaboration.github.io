@@ -3,7 +3,7 @@ first_name: Malcolm
 last_name: Lazarow
 portrait: images/mlazarow.jpg
 institute: UC Berkeley
-position: PhD Student
+position: gradstudent
 title: PhD Student
 email: mlazarow@berkeley.edu # your email
 social:
