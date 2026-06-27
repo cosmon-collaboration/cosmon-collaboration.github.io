@@ -1,7 +1,7 @@
 ---
 first_name: Fernando
 last_name: Romero-López
-portrait: images/FRL.jpg # copy an image to assets/images, otherwise, get anonymous
+portrait: images/portraits/FRL.jpg # copy an image to assets/images, otherwise, get anonymous
 institute: University of Bern
 position: senior #senior, postdoc, gradstudent, undergrad, former
 title: Professor #Senior Scientist, Professor, ...
