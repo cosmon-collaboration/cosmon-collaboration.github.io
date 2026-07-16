@@ -40,6 +40,7 @@ presenter = "presenter"
 
 [[menus.main]]
     name = 'CoSMoN'
+    params = { icon='images/news/QUDA_LAPH_caar.png' }
     pageRef = '/'
     weight = 10
 [[menus.main]]
