@@ -16,7 +16,7 @@ categories = "categories"
 presenter = "presenter"
 
 [params]
-    theme="blue-grey"
+    theme = "blue-grey"
     dateFormat = "2 January 2006"
     front_news = 10
     #home_banner = "images/foggy-bay.jpg"
@@ -35,7 +35,7 @@ presenter = "presenter"
     math = true
     enableDuckDuckGoSearchBox = true
     numberedSubtitles = true
-    default_portrait = "images/anonymous_person.png"
+    default_portrait = "images/portraits/anonymous_person.png"
     memberClass = false
 
 [[menus.main]]
