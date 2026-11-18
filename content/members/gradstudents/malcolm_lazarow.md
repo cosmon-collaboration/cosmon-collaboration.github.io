@@ -1,7 +1,7 @@
 ---
 first_name: Malcolm
 last_name: Lazarow
-portrait: images/mlazarow.jpg
+portrait: "images/portraits/mlazarow.jpg"
 institute: UC Berkeley
 position: gradstudent
 title: PhD Student

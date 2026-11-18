@@ -1,7 +1,7 @@
 ---
 first_name: Miguel
 last_name: Salg
-portrait: images/Salg_Miguel.jpg
+portrait: "images/portraits/Salg_Miguel.jpg"
 institute: University of Bern
 position: postdoc
 title: Postdoc

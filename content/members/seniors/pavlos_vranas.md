@@ -1,7 +1,7 @@
 ---
 first_name: Pavlos
 last_name: Vranas
-portrait: "images/pavlos_vranas.jpg"
+portrait: "images/portraits/pavlos_vranas.jpg"
 institute: Lawrence Livermore National Laboratory
 position: senior #senior, postdoc, gradstudent, undergrad, former
 title: Senior Scientist #Senior Scientist, Professor, ...

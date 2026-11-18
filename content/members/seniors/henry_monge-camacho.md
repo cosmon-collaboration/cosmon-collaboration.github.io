@@ -1,7 +1,7 @@
 ---
 first_name: Henry
 last_name: Monge-Camacho
-portrait: images/henry_monge.jpg # copy an image to assets/images, otherwise, get anonymous
+portrait: "images/portraits/henry_monge.jpg"
 institute: Oak Ridge National Laboratory
 position: senior #senior, postdoc, gradstudent, undergrad, former
 title: Computational Staff Scientist #Senior Scientist, Professor, ...

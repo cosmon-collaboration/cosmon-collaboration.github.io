@@ -1,7 +1,7 @@
 ---
 first_name: Joseph
 last_name: Moscoso
-portrait: images/moscoso.jpg
+portrait: "images/portraits/moscoso.jpg"
 institute: University of Maryland
 position: postdoc
 title: Postdoc

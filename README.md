@@ -1,6 +1,6 @@
 Home page for CoSMoN using Hugo.
 
-In order to test locally, make sure to have the `extended` version of [Hugo installed](https://gohugo.io/installation/).  Then,
+In order to test locally, make sure you have the correct version and `extended` [Hugo installed](https://gohugo.io/installation/) - with the version specified in the [TeXademic Theme](https://github.com/walkloud/hugo-texademic) READEME.md.  Then,
 ```
 git clone --recursive git@github.com:cosmon-collaboration/cosmon-collaboration.github.io.git
 cd cosmon-collaboration.github.io
@@ -25,7 +25,7 @@ To make yourself a new member page, you can type
 ```
 hugo new members/<YOUR_NAME>.md
 ```
-which will create a template file that you can edit, and then add and commit.  Make sure to add your image to `assets/images` folder, and then list `images/your_image.{jpg,png}` in the `portrait` key.
+which will create a template file that you can edit, and then add and commit.  Make sure to add your image to `assets/portraits/images` folder, and then list `images/portraits/your_image.{jpg,png}` in the `portrait` key.
 
 Add additional content, such as news items.  Then, make sure it works locally, add the new files
 ```
@@ -33,4 +33,4 @@ git add <files you added/modified>
 git commit -m "some useful message"
 git push
 ```
-and then issue a pull request to the `main` branch.
+and then issue a pull request to the `main` branch and select the `webpage reviewers` team for a review to merge.

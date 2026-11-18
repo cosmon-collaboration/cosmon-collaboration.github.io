@@ -1,7 +1,7 @@
 ---
 first_name: André
 last_name: Walker-Loud
-portrait: images/andre_wise_staff.jpeg
+portrait: "images/portraits/andre_wise_staff.jpeg"
 institute: Lawrence Berkeley National Laboratory
 position: senior
 title: Senior Scientist

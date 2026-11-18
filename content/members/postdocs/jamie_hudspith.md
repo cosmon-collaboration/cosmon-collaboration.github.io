@@ -1,7 +1,7 @@
 ---
 first_name: R. Jamie
 last_name: Hudspith
-portrait: images/rjhudspith.jpeg
+portrait: "images/portraits/rjhudspith.jpeg"
 institute: Carnegie Mellon University
 position: postdoc
 title: Postdoc

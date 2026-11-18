@@ -1,7 +1,7 @@
 ---
 first_name: Colin
 last_name: Morningstar
-portrait: images/colin.jpg
+portrait: "images/portraits/colin.jpg"
 institute: Carnegie Mellon University
 position: senior
 title: Professor

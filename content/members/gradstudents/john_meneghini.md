@@ -1,7 +1,7 @@
 ---
 first_name: John
 last_name: Meneghini
-portrait: images/john_meneghini.jpg
+portrait: "images/portraits/john_meneghini.jpg"
 institute: Carnegie Mellon University
 position: gradstudent
 title: PhD Student
